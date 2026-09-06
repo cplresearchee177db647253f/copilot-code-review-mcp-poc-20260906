@@ -1,1 +1,2 @@
-export const status = 'external change'
+export const status = 'baseline'
+export const featureEnabled = true
